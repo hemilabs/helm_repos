@@ -3,7 +3,17 @@ entries:
   blockscout-stack:
   - apiVersion: v2
     appVersion: 6.10.0
-    created: "2025-04-11T09:02:46.343975-06:00"
+    created: "2025-04-11T09:20:03.10355-06:00"
+    description: A Helm chart to deploy Blockscout stack
+    digest: df22c2b75855045d92d290562aee4de7cec623be0304400138f8eba8b7cda6b6
+    name: blockscout-stack
+    type: application
+    urls:
+    - https://hemilabs.github.io/helm_repos/dist/blockscout-stack-1.10.1.tgz
+    version: 1.10.1
+  - apiVersion: v2
+    appVersion: 6.10.0
+    created: "2025-04-11T09:20:03.10238-06:00"
     description: A Helm chart to deploy Blockscout stack
     digest: 9bbcd6e091659c8928d5f483b6f579a5f69ccf88e29af616059f43591b72dd7e
     name: blockscout-stack
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://hemilabs.github.io/helm_repos/dist/blockscout-stack-1.10.0.tgz
     version: 1.10.0
-generated: "2025-04-11T09:02:46.338838-06:00"
+generated: "2025-04-11T09:20:03.097662-06:00"
